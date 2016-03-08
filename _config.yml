@@ -1,0 +1,28 @@
+name: thewerk
+favicon: null
+layout_spectrum: 0.05685297097079456
+typography_spectrum: 0.6617630738765001
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.32749972376041114
+  lightness: 0.5808663722127676
+  saturation: 0.07891330146230757
+  rhythmicContrast: 0.9601052410434932
+purpose: []
