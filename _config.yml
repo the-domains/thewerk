@@ -1,20 +1,4 @@
-name: thewerk
-favicon: null
-layout_spectrum: 0.50421
 typography_spectrum: 1
-title: the werk
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5808663722127676
   saturation: 0.07891330146230757
   rhythmicContrast: 0.9601052410434932
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50421
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: thewerk
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: zellwerk
 purpose: []
